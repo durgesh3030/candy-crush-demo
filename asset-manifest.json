@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/candy-crush-demo/static/css/main.b60ffeb1.css",
+    "main.js": "/candy-crush-demo/static/js/main.29491fc4.js",
+    "static/js/787.276f48e0.chunk.js": "/candy-crush-demo/static/js/787.276f48e0.chunk.js",
+    "static/media/purple.png": "/candy-crush-demo/static/media/purple.ae25b8a55e061a50346f.png",
+    "static/media/blue.png": "/candy-crush-demo/static/media/blue.73120c156936a4206714.png",
+    "static/media/red.png": "/candy-crush-demo/static/media/red.3658b37c743115db2a9a.png",
+    "static/media/orange.png": "/candy-crush-demo/static/media/orange.f106b2cdd163575a7c68.png",
+    "static/media/yellow.png": "/candy-crush-demo/static/media/yellow.a3d87a9b362b5f969133.png",
+    "static/media/green.png": "/candy-crush-demo/static/media/green.599f70161bdb3cadac66.png",
+    "index.html": "/candy-crush-demo/index.html",
+    "main.b60ffeb1.css.map": "/candy-crush-demo/static/css/main.b60ffeb1.css.map",
+    "main.29491fc4.js.map": "/candy-crush-demo/static/js/main.29491fc4.js.map",
+    "787.276f48e0.chunk.js.map": "/candy-crush-demo/static/js/787.276f48e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60ffeb1.css",
+    "static/js/main.29491fc4.js"
+  ]
+}
